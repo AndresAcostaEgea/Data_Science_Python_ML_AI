@@ -1,1 +1,3 @@
-One txt file.
+One txt file.
+
+These are the new changes. Now this is better.
