@@ -1,0 +1,38 @@
+#iWelcome{
+    text-align: center;
+
+}
+
+#iOne{
+    text-align: center;
+}
+
+#iTwo{
+    text-align: center;
+}
+
+#iThree{
+    text-align: center;
+}
+
+#imOne{
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#imTwo {
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#imThree{
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

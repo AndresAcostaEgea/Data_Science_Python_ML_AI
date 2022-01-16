@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(211, 211, 211);
+}
+
+#div1 {
+    background-color: rgb(38, 38, 38);
+    height: 60px;
+    width: 1200px;
+    padding: 10px;
+
+}
+
+h5 {
+    color: white;
+    left: 30px;
+}
+
+.line {
+    float:left;
+    width: 100px;
+}
+
+a:hover {
+    color: white;
+    background-color: #1f1f1f;
+    padding: 35px;
+}
+
+a:link {
+    color: white;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+}
+
+
+

@@ -1,0 +1,81 @@
+body{
+    background-color: rgb(199, 255, 242);
+}
+
+#divOne{
+    background-color: rgb(55, 0, 106);
+    height: 30px;
+    width: 400px;
+    border-top-right-radius:10px;
+    border-top-left-radius:10px;
+    position: absolute;
+    top: 50px;
+    left: 410px;
+}
+
+h5{
+    font-family: American Typewriter, serif;
+    text-align: center;
+    color: white;
+    padding-top: 2px;
+}
+
+#divTwo{
+    background-color: rgb(213, 213, 213);
+    height: 500px;
+    width: 400px;
+    position: absolute;
+    top: 80px;
+    left: 410px;
+    border-bottom-right-radius:10px;
+    border-bottom-left-radius:10px;
+}
+
+#TBA{
+    font-family: American Typewriter, serif;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+#amount{
+    padding-left: 30px;
+}
+
+#rate{
+    font-family: American Typewriter, serif;
+    padding-left: 30px;
+}
+
+#selectServ{
+    background-color: rgb(232, 249, 255);
+    height: 50px;
+}
+
+#divServ{
+    padding-left: 30px;
+}
+
+#split{
+    font-family: American Typewriter, serif;
+    padding-left: 30px;
+}
+
+#people{
+    padding-left: 30px;
+}
+
+#pButton{
+    padding-left: 120px;
+}
+
+#cButton{
+    font-family: American Typewriter, serif;
+    background-color: rgb(254, 39, 79);
+    height: 30px;
+    width: 150px;
+}
+
+#tipCal{
+    text-align: center;
+}
+

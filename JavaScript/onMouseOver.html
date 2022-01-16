@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="onMouseOver.css">
+    <title>onMouseOver</title>
+</head>
+<body>
+    <h1>Events</h1>
+    <br>
+    <p>Put your mouse in and out to change the background color.</p>
+    <div id="divOne" onmouseout="changeDivOne()">
+    </div>
+    <p>Click in here. When you lift the mouse, things will change.</p>
+    <div id="divTwo" onmouseup="changeDivTwo()">
+    </div>
+    <p id="divThree">Please start typing to make the change.</p>
+    <input type="text" id="inputOne" onkeydown="changeInputOne()">
+    <script src="onMouseOver.js"></script>
+</body>
+</html>

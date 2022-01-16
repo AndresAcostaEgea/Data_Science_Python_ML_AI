@@ -1,0 +1,45 @@
+.box1 { 
+    background-color: blue;
+    height: 10px;
+    width: 500px;
+    position: relative;
+    left: 240px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.box2 {
+    background-color: blueviolet;
+    height: 360px;
+    width: 450px;
+    position: relative;
+    left: 260px;
+}
+
+.box3 {
+    background-color: blue;
+    height: 10px;
+    width: 500px;
+    position: relative;
+    left: 240px;
+}
+
+.img1 {
+    height: 300px;
+    width: 300px;
+    position: relative;
+    top: 30px;
+    left: 78px;
+}
+
+.border {
+    border: 10px solid aqua;
+    height: 60px;
+    width: 80px;
+    padding: 5px;
+    margin-bottom: 10px;
+
+
+}

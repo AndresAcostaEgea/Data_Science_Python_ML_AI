@@ -1,0 +1,30 @@
+#logo{
+    height: 20px;
+}
+
+div > h5{
+    color: black;
+    font-size: xx-large;
+}
+
+div > p{
+    color: black;
+    font-size: x-large;
+}
+
+#space{
+    margin: 40px;
+}
+
+#padding{
+    padding-left: 70px;
+}
+
+.spaceTwo{
+    width: 250px;
+    margin:30px
+}
+
+div > p {
+    text-align: center;
+}

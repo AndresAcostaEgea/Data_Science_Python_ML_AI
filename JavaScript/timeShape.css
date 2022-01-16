@@ -1,0 +1,23 @@
+#shapeOne{
+    background-color: aquamarine;
+    height: 100px;
+    width: 100px;
+    display: none;
+}
+
+#shapeTwo{
+    background-color: rgb(38, 190, 46);
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    display: none;
+}
+
+#shapeThree{
+    width: 0;
+    height: 0;
+    border-left: 70px solid transparent;
+    border-right: 70px solid transparent;
+    border-bottom: 100px solid rgb(29, 25, 241);
+    display: none;
+}

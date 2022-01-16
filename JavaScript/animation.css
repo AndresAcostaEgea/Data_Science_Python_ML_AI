@@ -1,0 +1,23 @@
+#divOne{
+    background-color: rgb(226, 43, 76);
+    height: 70px;
+    width: 100px;
+    opacity: 0.3;
+    margin: 30px;
+    text-align: left;
+
+}
+
+p{
+    color: white;
+}
+
+#divTwo{
+    background-color: rgb(73, 226, 43);
+    height: 70px;
+    width: 100px;
+    opacity: 0.3;
+    margin: 30px;
+    text-align: center;
+
+}

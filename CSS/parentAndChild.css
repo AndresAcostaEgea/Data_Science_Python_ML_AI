@@ -1,0 +1,11 @@
+span > p{
+    background-color: blue;
+}
+
+div > p{
+    background-color: blueviolet;
+}
+
+div > h1{
+    background-color: aqua;
+}

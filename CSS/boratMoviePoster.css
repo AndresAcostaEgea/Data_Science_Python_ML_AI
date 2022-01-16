@@ -1,0 +1,53 @@
+#bodyColor {
+    background-color: rgb(24, 0, 46);
+}
+
+#titleColor {
+    position: static;
+    color: bisque;
+    text-align: center;
+}
+
+.picturesBox {
+    position: static;
+    background-color:rgb(57, 57, 130);
+    border: 10px solid rgb(57, 57, 130);
+}
+
+#movieImage {
+    position: relative;
+    top: 0px;
+    width: 200px;
+    height: 100px;
+    right: 20px;
+}
+
+#commingSoon {
+    position: relative;
+    width: 100px;
+    left: 20px;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
+
+#bottomLeftBox {
+    position: static;
+    background-color: rgb(57, 57, 130);
+    width: 40%;
+    bottom: 0px;
+    left: 0px;
+    display: flex;
+    justify-content: left;
+}
+
+h1 {
+    font-family: Comic Sans MS;
+}
+
+p {
+    font-family: Blippo, fantasy;
+    color: bisque;
+}

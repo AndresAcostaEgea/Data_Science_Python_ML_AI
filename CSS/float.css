@@ -1,0 +1,12 @@
+
+.leftImage {
+    float: left;
+}
+
+.rightImage {
+    float: right;
+}
+
+img {
+    width: 50px;
+}
